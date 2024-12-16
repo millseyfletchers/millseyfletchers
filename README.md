@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## First use of GitHub for work .. 
+## I work at Fletchers Group in the Infrastructure team
 <!--
 **millseyfletchers/millseyfletchers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
